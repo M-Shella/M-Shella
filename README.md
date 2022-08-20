@@ -8,7 +8,7 @@ Web developer
 * 🖥️  See my portfolio at [shellma.net (Work in progress)](http://shellma.net)
 * ✉️  You can contact me at [matejsela@gmail.com](mailto:matejsela@gmail.com)
 * 🚀  I'm currently working for [Cod8](http://cod8.io/)
-* 🧠  I'm mastering web development learning 3D modeling
+* 🧠  I'm mastering web development and learning 3D modeling
 
 ### Skills
 
