@@ -5,9 +5,9 @@ Web developer
 -------------
 
 * 🌍  I'm based in Czech republic
-* 🖥️  See my portfolio at [shellma.net](http://shellma.net)
+* 🖥️  See my portfolio at [shellma.net (Work in progress)](http://shellma.net)
 * ✉️  You can contact me at [matejsela@gmail.com](mailto:matejsela@gmail.com)
-* 🚀  I'm currently working on [Cod8](http://cod8.io/)
+* 🚀  I'm currently working for [Cod8](http://cod8.io/)
 * 🧠  I'm learning 3D modeling
 
 ### Skills
